@@ -22,13 +22,13 @@
 /* making root */
 
 :root {
-    --background-color: #1f232e;
-    --hover-colors: #0ef;
-    --text-origin-color: #fefefe;
+    --background-color: #ecedf1;
+    --hover-colors: rgb(12, 163, 173);
+    --text-origin-color: #080808;
     --secondary-bg-color: #323946;
-    --main-text-color: #fefffe;
+    --main-text-color: #111311;
     --main-text-second-color: #caceca;
-    --profession-color: rgb(231, 122, 122);
+    --profession-color: rgb(176, 20, 20);
 }
 
 
@@ -449,7 +449,7 @@ div.info-layer p {
     gap: 20px;
     text-align: center;
     width: 200px;
-    color: var(--main-text-color);
+    /* color: var(--main-text-color); */
     margin: 5rem 0;
 }
 
